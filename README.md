@@ -25,6 +25,15 @@ React Movie-App
 * Use Public API such as ( opendata.paris.fr )
 * Use Movies API ( themoviedb )
 
+### Install on your Android device ###
+
+* Connect with USB cable 
+* Enabled Debug USB
+* In a terminalusing adb :
+  ```
+  adb install <app_name.apk>
+  ```
+
 ### Group ###
 
 * floran.balmes@epitech.eu
