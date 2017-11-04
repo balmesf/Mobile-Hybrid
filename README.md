@@ -12,7 +12,7 @@ React Movie-App
     
 ### Frontend ###
 
-1* Geolocation of the user, with the nearest movie theater.
+* Geolocation of the user, with the nearest movie theater.
 * Authentication of a User (SignIn/SignUp), persistant session for the user (Doesn't have to re-login) 
 * List of actual movies in theaters
 * Settings -> logout
@@ -34,4 +34,5 @@ React Movie-App
 
 * No
 
+##
 All rights reserved - 2017
