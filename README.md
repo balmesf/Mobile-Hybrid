@@ -30,7 +30,7 @@ React Movie-App
 
 * Connect with USB cable 
 * Enabled Debug USB
-* In a terminalusing adb :
+* In a terminal using adb :
   ```
   adb install <app_name.apk>
   ```
