@@ -24,6 +24,7 @@ React Movie-App
 * REST API
 * Use Public API such as ( opendata.paris.fr )
 * Use Movies API ( themoviedb )
+* API host on Heroku
 
 ### Install on your Android device ###
 
