@@ -5,7 +5,7 @@ React Movie-App
 ### Movie-App , What it is ? ###
 
  ##### Allow geolocation for the app in the settings of the device ##### 
- ![Settings](https://imgur.com/a/9TBii)
+ ![Settings](https://i.imgur.com/RtrBsod.jpg)
  
  
  Movie-app is an app who locate the nearest movie theater and show the movies that are playing now.
