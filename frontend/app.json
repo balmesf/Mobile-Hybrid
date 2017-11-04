@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "movie-app",
+    "description": "No description",
+    "slug": "movie-app",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/images/logo.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "io.shabteam.movieapp",
+      "config": {
+      	"googleMaps": {
+	   "apiKey": "AIzaSyDdDAkh03YIyzllaYgOgm6wf8nF2uxm9hU"
+	}
+      }
+    }
+  }
+}
